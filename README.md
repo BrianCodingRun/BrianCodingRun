@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BrianCoding/BrianCoding/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BrianCoding/BrianCoding/main/snake.svg" alt="Snake animation" />
 
 ###
