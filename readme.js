@@ -1,4 +1,4 @@
-<div align="center">
+module.exports = `<div align="center">
   <img height="200" width="100%" src="https://res.cloudinary.com/duouyfqku/image/upload/v1745392584/Banner_github_cfeal4.png"  />
 </div>
 
@@ -50,4 +50,5 @@
 
 ###
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+<#gabot_signing>
+`;
