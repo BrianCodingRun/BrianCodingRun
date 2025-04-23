@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/duouyfqku/image/upload/v1745392584/Banner_github_cfeal4.png"  />
+  <img height="200" width="100%" src="https://res.cloudinary.com/duouyfqku/image/upload/v1745392584/Banner_github_cfeal4.png"  />
 </div>
 
 ###
@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BrianCoding/BrianCoding/main/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/BrianCodingRun/BrianCodingRun/blob/output/github-snake-dark.svg)
 
 ###
