@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 I am currently training to be an application developer designer.<br>📱 I mainly create desktop and mobile applications.<br>⚔️ My favorite frameworks are Next.js and Tailwindcss.<br>🌍 Find all the projects I've completed and collaborated on in my portfolio, available at the following URL: https://portfolio.briancoupama.re</p>
+<p align="left">🎓 I am currently training to be an application developer designer.<br>📱 I mainly create desktop and mobile applications.<br>⚔️ My favorite frameworks are Next.js and Tailwindcss.<br>🌍 Find all the projects I've completed and collaborated on in my portfolio, available at the following URL: https://briancoupama.re</p>
 
 ###
 
