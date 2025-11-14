@@ -50,4 +50,4 @@
 
 ###
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+🤖 This README.md is updated with horror, by Gabot ❤️
